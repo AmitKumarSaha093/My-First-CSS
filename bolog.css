@@ -1,0 +1,32 @@
+.header{
+    height: 300px;
+    background-color: brown;
+    background-image:url('arjun.jpg') ;
+    background-size: 700px;
+
+}
+h3{
+    font-size: 30px;
+
+    
+}
+.bloge{
+    margin: 20px;
+    border: 10px solid green;
+    box-shadow: 10px 20px 40px;
+}
+.second{
+    /* display: none; */
+    /* visibility: hidden; */
+}
+.incident{
+    border: 8px solid rgb(45, 4, 250);
+    display: inline-block;
+   
+    margin: 20px;
+    padding: 30px;
+
+}
+.dolar{
+    border: 8px solid rgb(21, 0, 255):
+}
